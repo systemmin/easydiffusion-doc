@@ -1,2 +1,2 @@
 # easydiffusion-doc
-easydiffusion 中文版文档
+easydiffusion [翻译-中文文档](https://github.com/systemmin/easydiffusion-doc/wiki)
